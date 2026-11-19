@@ -2,8 +2,7 @@
 
 ![Program](https://img.shields.io/badge/Program-Networkwalks_Cybersecurity_%26_Ethical_Hacking-1B365D?style=for-the-badge)
 ![Batch](https://img.shields.io/badge/Batch-B084-0D9488?style=for-the-badge)
-![Modules](https://img.shields.io/badge/Modules-W2--PM1_%7C_W1--PM2-2C5282?style=for-the-badge)
-![Status](https://img.shields.io/badge/Flags_Captured-6%2F6_Verified-16A34A?style=for-the-badge)
+![Modules](https://img.shields.io/badge/Modules-W3--PM1_%7C_W3--PM2-2C5282?style=for-the-badge)
 
 ## 📋 Project Metadata
 
@@ -62,11 +61,11 @@ This repository contains the technical documentation, extracted `$pdf$` cryptogr
 | Module | Target Document | Encryption Spec | Recovered Password | Captured Flag |
 | :--- | :--- | :--- | :--- | :--- |
 | **Module 1** | `PDF 1 (LAB 1 HASH)` | PDF V4 R4 (128-bit, `-1028`) | `good-luck` | `nw{cybersecurity_flag_captured_2608}` |
-| **Module 1** | `PDF 2 (lab 1 HASH)` | PDF V4 R4 (128-bit, `-1028`) | *Audited via Wordlist* | `nw{networkwalks_persistence_jtr_270521}` |
-| **Module 1** | `PDF 3 (lab 1 HASH)` | PDF V4 R4 (128-bit, `-1028`) | *Audited via Wordlist* | `nw{networkwalks_flag_260821_1}` |
-| **Module 2** | `Locked PDF 1 (pdf1)` | PDF V4 R4 (128-bit, `-1060`) | *Audited via Web Tool* | `nw{networkwalks_flag1_jtr_270521_1}` |
-| **Module 2** | `Locked PDF 2 (pdf2)` | PDF V4 R4 (128-bit, `-1028`) | *Audited via Web Tool* | `nw{networkwalks_persistence_jtr_270521}` |
-| **Module 2** | `Locked PDF 3 (pdf3)` | PDF V4 R4 (128-bit, `-1028`) | *Audited via Web Tool* | `nw{networkwalks_flag_260821_1}` |
+| **Module 1** | `PDF 2 (lab 1 HASH)` | PDF V4 R4 (128-bit, `-1028`) | `password1` | `nw{networkwalks_persistence_jtr_270521}` |
+| **Module 1** | `PDF 3 (lab 1 HASH)` | PDF V4 R4 (128-bit, `-1028`) | `1qaz2wsx` | `nw{networkwalks_flag_260821_1}` |
+| **Module 2** | `Locked PDF 1 (pdf1)` | PDF V4 R4 (128-bit, `-1060`) | `password1` | `nw{networkwalks_flag1_jtr_270521_1}` |
+| **Module 2** | `Locked PDF 2 (pdf2)` | PDF V4 R4 (128-bit, `-1028`) | `password1` | `nw{networkwalks_persistence_jtr_270521}` |
+| **Module 2** | `Locked PDF 3 (pdf3)` | PDF V4 R4 (128-bit, `-1028`) | `1qaz2wsx` | `nw{networkwalks_flag_260821_1}` |
 
 ---
 
